@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sadeghnasab.github.io/instaremix/sitemap.xml
