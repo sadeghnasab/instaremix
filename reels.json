@@ -1,0 +1,34 @@
+[
+ {
+  "id": "reel1",
+  "title": "تهران ۲۰۸۰ با هوش مصنوعی",
+  "date": "2026-10-22",
+  "cover": "reel1.webp",
+  "ig": "https://www.instagram.com/reel/DeyrRy9sC56/",
+  "prompt": "Cinematic futuristic Tehran at night in the year 2080: Milad Tower glowing with neon holograms, flying cars gliding between towering skyscrapers, Alborz mountains under a purple sky, slow drone push-in, volumetric fog, blade-runner color grade"
+ },
+ {
+  "id": "reel2",
+  "title": "گربه‌ی فضانورد توی فنجون چای",
+  "date": "2026-10-22",
+  "cover": "reel2.webp",
+  "ig": "https://www.instagram.com/reel/Dezh9p0MhOk/",
+  "prompt": "A tiny fluffy kitten wearing a little astronaut helmet floats inside a giant glass teacup drifting through space among glowing pastel planets, it paws at a floating sugar cube, soft dreamy lighting, macro lens, slow orbiting camera, Pixar-like surreal cuteness"
+ },
+ {
+  "id": "reel3",
+  "title": "وقتی نقاشی زنده میشه",
+  "date": "2026-10-23",
+  "cover": "reel3.webp",
+  "ig": "https://www.instagram.com/reel/De1Px9YsU8m/",
+  "prompt": "An old faded watercolor painting of a Persian garden with a turquoise pool comes to life: the paint ripples, the water starts flowing, cypress trees sway, petals fly, colors become photorealistic as the camera pushes forward into the now-real garden, magical transformation, golden hour"
+ },
+ {
+  "id": "fatemiyeh",
+  "title": "شمعی به یاد بانوی بهشت (ایام فاطمیه)",
+  "date": "2026-10-23",
+  "cover": "fatemiyeh.webp",
+  "ig": "https://www.instagram.com/reel/De2G-7QsdDd/",
+  "prompt": "Shot 1 — Door:\nCinematic slow push-in toward an old weathered wooden door with iron rings in a narrow mud-brick alley of ancient Medina at night. Soft silver moonlight, a single small oil lamp flickering beside the door, fine dust drifting in a moonbeam. Completely empty scene, no people, no figures, no faces. Mournful, quiet, sacred atmosphere, deep blues and warm amber, shallow depth of field, film grain.\n\nShot 2 — Candles:\nClose-up of many slender white candles burning on dark stone, white jasmine (yas) flowers scattered around them, slow gentle dolly sideways, warm candlelight bokeh, a few white petals slowly falling through the frame. No people, no hands, no faces. Mournful, serene, elegant, cinematic macro, dark background.\n\nShot 3 — Mosque:\nSilhouette of a mosque dome and minaret against a deep blue night sky with a full moon, black mourning flags gently waving in the wind in the foreground, slow upward tilt, thin clouds passing the moon. No people, no figures. Solemn, majestic, mournful, cinematic, soft moonlight.\n\nShot 4 — Petals:\nWhite jasmine petals slowly falling in slow motion through a single soft beam of moonlight in darkness, dust particles glowing in the light, petals landing softly on an old wooden windowsill with a small candle. No people, no faces. Peaceful, mournful, poetic ending shot, cinematic, gentle fade toward darkness.\n\nSettings: 9:16, 720p, 8s per shot, 0.7s crossfades, ~30s total."
+ }
+]
